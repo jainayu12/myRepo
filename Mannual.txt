@@ -1,0 +1,8 @@
+1.Github Account
+2.Empty Repo.
+3.local system
+ git config --global user.name 'jainayu12'
+git config --global user.email 'aayush.jain1206@gmail.com'
+4.git push -u origin master
+  4.1 username? -> jainayu12
+  4.2  password? -> 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
